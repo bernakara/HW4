@@ -1,0 +1,12 @@
+C:\Users\90534\Desktop\HW4\HW4\MinimumSpaningTree\bin\Debug\MinimumSpaningTree.dll
+C:\Users\90534\Desktop\HW4\HW4\MinimumSpaningTree\bin\Debug\MinimumSpaningTree.pdb
+C:\Users\90534\Desktop\HW4\HW4\MinimumSpaningTree\obj\Debug\MinimumSpaningTree.csproj.CoreCompileInputs.cache
+C:\Users\90534\Desktop\HW4\HW4\MinimumSpaningTree\obj\Debug\MinimumSpaningTree.dll
+C:\Users\90534\Desktop\HW4\HW4\MinimumSpaningTree\obj\Debug\MinimumSpaningTree.pdb
+C:\Users\90534\Desktop\HW4\HW4\MinimumSpaningTree\obj\Debug\MinimumSpaningTree.csprojAssemblyReference.cache
+C:\Users\90534\Desktop\HW4.S\HW4\MinimumSpaningTree\bin\Debug\MinimumSpaningTree.dll
+C:\Users\90534\Desktop\HW4.S\HW4\MinimumSpaningTree\bin\Debug\MinimumSpaningTree.pdb
+C:\Users\90534\Desktop\HW4.S\HW4\MinimumSpaningTree\obj\Debug\MinimumSpaningTree.csproj.CoreCompileInputs.cache
+C:\Users\90534\Desktop\HW4.S\HW4\MinimumSpaningTree\obj\Debug\MinimumSpaningTree.dll
+C:\Users\90534\Desktop\HW4.S\HW4\MinimumSpaningTree\obj\Debug\MinimumSpaningTree.pdb
+C:\Users\90534\Desktop\HW4.S\HW4\MinimumSpaningTree\obj\Debug\MinimumSpaningTree.csprojAssemblyReference.cache

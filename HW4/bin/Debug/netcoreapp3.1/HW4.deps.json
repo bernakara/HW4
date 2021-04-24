@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HW4/1.0.0": {
+        "dependencies": {
+          "BreadthFirstSearch": "1.0.0",
+          "DepthFirstSearch": "1.0.0",
+          "MinimumSpaningTree": "1.0.0",
+          "StronglyConnectedComponents": "1.0.0",
+          "TopologicalSorting": "1.0.0"
+        },
+        "runtime": {
+          "HW4.dll": {}
+        }
+      },
+      "BreadthFirstSearch/1.0.0": {
+        "runtime": {
+          "BreadthFirstSearch.dll": {}
+        }
+      },
+      "DepthFirstSearch/1.0.0": {
+        "runtime": {
+          "DepthFirstSearch.dll": {}
+        }
+      },
+      "MinimumSpaningTree/1.0.0": {
+        "runtime": {
+          "MinimumSpaningTree.dll": {}
+        }
+      },
+      "StronglyConnectedComponents/1.0.0": {
+        "runtime": {
+          "StronglyConnectedComponents.dll": {}
+        }
+      },
+      "TopologicalSorting/1.0.0": {
+        "runtime": {
+          "TopologicalSorting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BreadthFirstSearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DepthFirstSearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MinimumSpaningTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StronglyConnectedComponents/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TopologicalSorting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
